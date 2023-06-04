@@ -1,7 +1,6 @@
 ## Hi! My name is Melyssa 💕 Welcome to my profile!
 
-- 🌱 I’m currently learning Python and JavaScript
-- 📫 Contact me by email: moyamelyssa@gmail.com
+- 🖥️ I’m currently learning Python and JavaScript
 - 😄 Pronouns: she/her
 
 
