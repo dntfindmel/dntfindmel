@@ -4,7 +4,7 @@
 <p align="center">• 😄 Pronouns: she/her</p>
 
 <div align="center">
-   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave">
+   <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave">
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntfindmel&hide_progress=true&theme=synthwave">
 </div>
 
@@ -25,6 +25,7 @@
 </div>
 
 <div align="center"><br>
-<img alt="anime-gif" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif&nbsp">
-  <p>I hope you enjoyed my profile! 😊</p>
+<img alt="anime-gif" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif&nbsp"><br>
 </div>
+
+  <h2 align="center">I hope you enjoyed my profile! 😊</h2>
