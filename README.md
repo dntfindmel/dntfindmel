@@ -24,6 +24,7 @@
    	<a href="https://twitter.com/dntfindmel_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-<div style="display: inline-block">
-<img align="center" alt="anime-gif" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
+<div align="center">
+<img alt="anime-gif" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
+  <p>I hope you enjoyed my profile! 😊</p>
 </div>
