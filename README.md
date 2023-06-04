@@ -4,7 +4,7 @@
 <p align="center">• 😄 Pronouns: she/her</p>
 
 <div align="center">
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave">
+   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave">
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntfindmel&hide_progress=true&theme=synthwave">
 </div>
 
