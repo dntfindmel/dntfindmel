@@ -1,4 +1,4 @@
-<img height="200px" width="100%" src="https://64.media.tumblr.com/2daece6699319a24484689f1bc14d244/tumblr_inline_ph5xkxlNal1qhtihc_1280.gifv">
+<img height="180px" width="100%" src="https://64.media.tumblr.com/2daece6699319a24484689f1bc14d244/tumblr_inline_ph5xkxlNal1qhtihc_1280.gifv">
 
 <h1 align="center">Hi! My name is Melyssa <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart Exclamation" width="25" height="25"/> Welcome to my profile!</h1>
 
@@ -42,4 +42,4 @@
 
   <h2 align="center">Thank you for visiting! 😊</h2>
   
-  <img height="200px" width="100%" src="https://64.media.tumblr.com/ece2c87df1a8063f584ee3e02c15c51d/tumblr_inline_ph5u6ycsdx1qhtihc_1280.png">
+  <img height="100px" width="100%" src="https://64.media.tumblr.com/ece2c87df1a8063f584ee3e02c15c51d/tumblr_inline_ph5u6ycsdx1qhtihc_1280.png">
