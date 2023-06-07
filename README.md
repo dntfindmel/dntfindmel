@@ -3,7 +3,6 @@
 <h1 align="center">Hi! My name is Melyssa <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart Exclamation" width="25" height="25"/> Welcome to my profile!</h1>
 
 <div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img width="100" src="https://user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif">
  </div>
 
