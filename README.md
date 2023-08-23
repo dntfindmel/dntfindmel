@@ -11,8 +11,8 @@
 <p align="center">She/her</p>
 
 <div align="center">
-   <img width="445px" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave&PAT_1">
-   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntfindmel&hide_progress=true&theme=synthwave&PAT_1">
+   <img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave&PAT_1">
+   <img width="370px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntfindmel&hide_progress=true&theme=synthwave&PAT_1">
 </div>
 
 <div style="display: inline_block" align="center"><br>
