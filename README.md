@@ -25,7 +25,7 @@ Javascript|    -    |TailwindCSS
 </div>
 
 <div align="center">
- <h3>No que eu tenho interesse? 🤔</h3>
+ <h3>No que eu tenho interesse? ᓚᘏᗢ</h3>
  
  * Análise de Dados          
  * Inteligência Artificial
