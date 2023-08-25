@@ -14,9 +14,10 @@
 
 Front end | Backend | Frameworks
 :--------:|:-------:|:---------:
-HTML      | Python  |Django   
-CSS       | POO     |Bootstrap
-Javascript|    -    |TailwindCSS
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![POO](https://img.shields.io/badge/OOP-5C2D91?style=flat) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)   
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)|    -     | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 
 <img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=dntfindmel&show_icons=true&theme=synthwave&PAT_1">
@@ -27,9 +28,9 @@ Javascript|    -    |TailwindCSS
 <div align="center">
  <h3>No que eu tenho interesse? ᓚᘏᗢ</h3>
  
- * Análise de Dados          
- * Inteligência Artificial
- * Java
+  Análise de Dados          
+  Inteligência Artificial   
+  Java
 </div>
 
 <div align="center" class="mb2">
