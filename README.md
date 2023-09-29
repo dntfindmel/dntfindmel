@@ -1,6 +1,6 @@
 # Hi, my name is Melyssa!
 
-<img width="100%" height="370px" src="https://i.pinimg.com/originals/e2/98/c7/e298c77a905e2501f0d0e51e6d314609.png">
+<img width="100%" src="https://i.pinimg.com/originals/e2/98/c7/e298c77a905e2501f0d0e51e6d314609.png">
 
   <a href="https://instagram.com/dntfindmel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:moyamelyssa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
