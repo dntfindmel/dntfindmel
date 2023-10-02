@@ -16,12 +16,15 @@ I am a fullstack development student with an interest in Data Analysis and Java.
   
   * HTML
   * CSS
+    * TailwindCSS
+    * Bootstrap
   * Javascript
   * Java
   * Python
+    * Pandas
   * C
 
-## What are my goals?
+## What are my goals? ✔
 I'm looking for an opportunity to have my first experience as an official developer to develop my skills in the professional field. In addition, I also aim to produce content to help the dev community, especially beginners.
 
 
