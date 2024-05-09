@@ -9,7 +9,7 @@
   ![](https://komarev.com/ghpvc/?username=dntfindmel)
 
 ## Who am I? 👩🏻
-I am a fullstack development student with an interest in Data Analysis and Java. I'm currently studying Data Analysis and Development at FATEC (Faculty of Technology of São Paulo) Ipiranga and looking for an internship! I discovered my love for programming and I hope I can improve in what I love.
+I am a fullstack development student with an interest in Data Analysis. I'm currently studying Data Analysis and Development at FATEC (Faculty of Technology of São Paulo) Ipiranga! I discovered my love for programming and I hope I can improve in what I love.
 
   ## What do I know? 💻
   
@@ -20,9 +20,10 @@ I am a fullstack development student with an interest in Data Analysis and Java.
   * <img width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"> - Python
   * <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> - C
   * <img width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"> - C#
+  * <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> - SQL
 
 ## What are my goals? ✔
-I'm looking for an opportunity to have my first experience as an official developer to develop my skills in the professional field. In addition, I also aim to produce content to help the dev community, especially beginners.
+I want to continue developing and improving my knowledge, adding it to the companies I work for and growing professionally.. In addition, I also aim to produce content to help the dev community, especially beginners.
 
 
 * If you need any help please contact me in one of the links above and I'll be glad to help you 😸
