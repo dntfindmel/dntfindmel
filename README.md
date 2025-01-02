@@ -9,7 +9,7 @@
   ![](https://komarev.com/ghpvc/?username=dntfindmel)
 
 ## Who am I? 👩🏻
-I am a Fullstack Developer with an interest in Mobile Development. I'm currently studying Data Analysis and Development at FATEC (Faculty of Technology of São Paulo)!
+I am a Fullstack Developer currently studying Data Analysis and Development at FATEC (Faculty of Technology of São Paulo)!
 
   ## What do I know? 💻
   
@@ -19,7 +19,6 @@ I am a Fullstack Developer with an interest in Mobile Development. I'm currently
   * <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"> - Angular
   * <img width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> - Java
   * <img width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"> - Python
-  * <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> - C
   * <img width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"> - C#
   * <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> - SQL
 
